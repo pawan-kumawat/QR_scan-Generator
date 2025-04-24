@@ -16,12 +16,10 @@ A Flutter application that allows users to scan QR codes using the device's came
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-## 📸 Screenshots
 
 | Scanner | Generator |
 |---------|-----------|
-| ![Scanner](screenshots/scanner.png) | ![Generator](screenshots/generator.png) |
+| ![Scanner](screenshots/QrScanner.jpg) | ![Generator](screenshots/QRGenerator.jpg) |
 
 ---
 
